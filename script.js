@@ -73,7 +73,7 @@ $(document).ready(function(){
 $(document).ready(function () {
     $("#resumeDownloadButton").click(function (e) {
       e.preventDefault();
-      window.location.href = "attributes/CV of Asir Intesar Ibne Zaman.pdf";
+      window.location.href = "attributes/CV_Asir Intesar Ibne Zaman (1).pdf";
     });
   });
  
