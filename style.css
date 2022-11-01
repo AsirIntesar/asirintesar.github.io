@@ -559,7 +559,9 @@ section .title::after{
 .skills-content .right .git::before{
     width: 70%;
 }
-
+.skills-content .right .pm::before{
+    width: 80%;
+}
 
 
 
