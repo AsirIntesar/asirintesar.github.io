@@ -299,11 +299,11 @@ section .title::after{
 }
 .projects .title::before,
 .teams .title::before{
-    background: #fff;
+    background: #111;
 }
 .projects .title::after,
 .teams .title::after{
-    background: #111;
+    background: #fff;
     content: "Projects I have worked on";
 }
 .projects .serv-content .card{
